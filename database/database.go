@@ -6,7 +6,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/GreenDoctor50/todo-list/tree/main/models"
+	"github.com/GreenDoctor50/todo-list/models"
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
 	"gorm.io/gorm/logger"

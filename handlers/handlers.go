@@ -8,8 +8,8 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/GreenDoctor50/todo-list/tree/main/database"
-	"github.com/GreenDoctor50/todo-list/tree/main/models"
+	"github.com/GreenDoctor50/todo-list/database"
+	"github.com/GreenDoctor50/todo-list/models"
 	"github.com/go-chi/chi/v5"
 )
 

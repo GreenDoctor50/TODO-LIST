@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/GreenDoctor50/todo-list/database"
-	"github.com/GreenDoctor50/todo-list/handlers"
+	"github.com/GreenDoctor50/todo-list/tree/main/database"
+	"github.com/GreenDoctor50/todo-list/tree/main/handlers"
 	"github.com/go-chi/chi/v5"
 )
 

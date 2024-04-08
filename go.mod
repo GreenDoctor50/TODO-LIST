@@ -1,6 +1,4 @@
-module github.com/FreenDoctor50/todo-list
-module github.com/GreenDoctor50/todo-list/database
-module github.com/GreenDoctor50/todo #1-list/handlers
+module github.com/GreenDoctor50/todo-list
 
 go 1.21.6
 
